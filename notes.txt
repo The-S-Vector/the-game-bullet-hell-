@@ -1,0 +1,24 @@
+
+we are making bullet hell 
+a bullet dodging game where a character tries to avoid projectiles comming from all directions
+
+language: C++
+
+parts:
+
+- the character
+    - movement
+    - death 
+    - creation
+    - hitbox 
+- projectils 
+    - movement 
+    - spawn randomness 
+    - spawn rate
+    - note make them dissapear or respawn them after they leave the screen to reduce computer resources
+    - hitbox
+- MCS
+    - the screen 
+    - tick counter 
+    - score? -- the tick counter???
+
